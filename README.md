@@ -109,11 +109,11 @@ I work with **founders, startups, and engineering teams** to architect and ship 
 ## 📊 Engineering & Activity Overview
 
 <div align="center">
-  <img src="https://github-readme-stats-snowy-mu.vercel.app/api?username=Steven-U&show_icons=true&theme=tokyonight&title_color=6366F1&text_color=94A3B8&icon_color=6366F1&hide_border=true&bg_color=0D1117" alt="Steven's GitHub Stats" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Steven-U&theme=tokyonight" alt="Steven's GitHub Stats" height="175" />
   &nbsp;
-  <img src="https://github-readme-stats-snowy-mu.vercel.app/api/top-langs/?username=Steven-U&layout=compact&theme=tokyonight&title_color=6366F1&text_color=94A3B8&hide_border=true&bg_color=0D1117" alt="Top Languages" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Steven-U&theme=tokyonight" alt="Top Languages" height="175" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=Steven-U&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&sideNums=94A3B8&currStreakLabel=6366F1&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" height="160" />
+  <img src="https://streak-stats.demolab.com?user=Steven-U&theme=tokyonight&hide_border=true&background=1a1b27&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&sideNums=94A3B8&currStreakLabel=6366F1&sideLabels=94A3B8&dates=64748B&border_radius=5" alt="GitHub Streak" height="175" />
 </div>
 
 ---
