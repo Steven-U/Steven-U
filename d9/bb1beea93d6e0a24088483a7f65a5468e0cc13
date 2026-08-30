@@ -1,0 +1,14 @@
+README.md
+  h_28a18529cf55a2 14,112-116,128,131-132,135-136
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "d9bb1beea93d6e0a24088483a7f65a5468e0cc13",
+  "prompts": {},
+  "humans": {
+    "h_28a18529cf55a2": {
+      "author": "Steven-U <steven.ung@outlook.fr>"
+    }
+  }
+}
