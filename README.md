@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Animated Typing Header -->
+  <!-- Animated Typing Header (Pikachu Electric Yellow) -->
   <a href="https://github.com/Steven-U">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1500&color=6366F1&center=true&vCenter=true&width=620&lines=Hey+there%2C+I'm+Steven+%F0%9F%91%8B;Full-Stack+Product+Engineer;AI+Agents+%26+Automation+Architect;Turning+0%E2%86%921+Ideas+Into+Shipped+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=FCEE0C&center=true&vCenter=true&width=660&lines=%E2%9A%A1+Hey%2C+I%27m+Steven+%F0%9F%91%8B;%E2%9A%A1+Full-Stack+Product+Engineer;%E2%9A%A1+AI+Agents+%26+Automation;%E2%9A%A1+Rapid+0%E2%86%921+MVP+Architect" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -10,9 +10,9 @@
   </p>
 
   <p align="center">
-    <a href="mailto:steven.ung@outlook.fr"><img src="https://img.shields.io/badge/Status-Available%20for%20Projects-22c55e?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" /></a>
-    <a href="https://www.linkedin.com/in/steven-u/"><img src="https://img.shields.io/badge/LinkedIn-Steven--U-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:steven.ung@outlook.fr"><img src="https://img.shields.io/badge/Email_Me-steven.ung%40outlook.fr-6366f1?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+    <a href="mailto:steven.ung@outlook.fr"><img src="https://img.shields.io/badge/Status-Available%20for%20Projects-FCEE0C?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=141321" alt="Status" /></a>
+    <a href="https://www.linkedin.com/in/steven-u/"><img src="https://img.shields.io/badge/LinkedIn-Steven--U-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=141321" alt="LinkedIn" /></a>
+    <a href="mailto:steven.ung@outlook.fr"><img src="https://img.shields.io/badge/Email_Me-steven.ung%40outlook.fr-FCEE0C?style=for-the-badge&logo=maildotru&logoColor=black&labelColor=141321" alt="Email" /></a>
   </p>
 
   ---
@@ -109,11 +109,11 @@ I work with **founders, startups, and engineering teams** to architect and ship 
 ## 📊 Engineering & Activity Overview
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Steven-U&theme=tokyonight" alt="Steven's GitHub Stats" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Steven-U&theme=2077" alt="Steven's GitHub Stats" height="175" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Steven-U&theme=tokyonight" alt="Top Languages" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Steven-U&theme=2077" alt="Top Languages" height="175" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=Steven-U&theme=tokyonight&hide_border=true&background=1a1b27&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&sideNums=94A3B8&currStreakLabel=6366F1&sideLabels=94A3B8&dates=64748B&border_radius=5" alt="GitHub Streak" height="175" />
+  <img src="https://streak-stats.demolab.com?user=Steven-U&theme=transparent&hide_border=true&background=141321&ring=FCEE0C&fire=FCEE0C&currStreakNum=FCEE0C&sideNums=DAD8D8&currStreakLabel=FCEE0C&sideLabels=94A3B8&dates=FCEE0C&border_radius=5" alt="GitHub Streak" height="175" />
 </div>
 
 ---
@@ -125,15 +125,15 @@ Got a project in mind, an MVP you need shipped, or an AI workflow you want to bu
 <div align="center">
 
   <a href="mailto:steven.ung@outlook.fr">
-    <img src="https://img.shields.io/badge/Email%20Me-steven.ung%40outlook.fr-6366F1?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email%20Me-steven.ung%40outlook.fr-FCEE0C?style=for-the-badge&logo=maildotru&logoColor=black&labelColor=141321" alt="Email" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/steven-u/">
-    <img src="https://img.shields.io/badge/LinkedIn-Steven--U-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Steven--U-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=141321" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/Steven-U">
-    <img src="https://img.shields.io/badge/GitHub-Steven--U-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Steven--U-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=141321" alt="GitHub" />
   </a>
 
 </div>
