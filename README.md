@@ -11,6 +11,7 @@
 
   <p align="center">
     <a href="mailto:steven.ung@outlook.fr"><img src="https://img.shields.io/badge/Status-Available%20for%20Projects-22c55e?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" /></a>
+    <a href="https://www.linkedin.com/in/steven-u/"><img src="https://img.shields.io/badge/LinkedIn-Steven--U-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:steven.ung@outlook.fr"><img src="https://img.shields.io/badge/Email_Me-steven.ung%40outlook.fr-6366f1?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
   </p>
 
@@ -108,9 +109,11 @@ I work with **founders, startups, and engineering teams** to architect and ship 
 ## 📊 Engineering & Activity Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Steven-U&show_icons=true&theme=transparent&title_color=6366F1&text_color=94A3B8&icon_color=6366F1&hide_border=true&locale=en" alt="Steven's GitHub Stats" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-U&layout=compact&theme=transparent&title_color=6366F1&text_color=94A3B8&hide_border=true&locale=en" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-snowy-mu.vercel.app/api?username=Steven-U&show_icons=true&theme=tokyonight&title_color=6366F1&text_color=94A3B8&icon_color=6366F1&hide_border=true&bg_color=0D1117" alt="Steven's GitHub Stats" height="160" />
+  &nbsp;
+  <img src="https://github-readme-stats-snowy-mu.vercel.app/api/top-langs/?username=Steven-U&layout=compact&theme=tokyonight&title_color=6366F1&text_color=94A3B8&hide_border=true&bg_color=0D1117" alt="Top Languages" height="160" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=Steven-U&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&sideNums=94A3B8&currStreakLabel=6366F1&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" height="160" />
 </div>
 
 ---
@@ -122,15 +125,15 @@ Got a project in mind, an MVP you need shipped, or an AI workflow you want to bu
 <div align="center">
 
   <a href="mailto:steven.ung@outlook.fr">
-    <img src="https://img.shields.io/badge/Email%20Me-steven.ung%40outlook.fr-6366F1?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email%20Me-steven.ung%40outlook.fr-6366F1?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/steven-u/">
+    <img src="https://img.shields.io/badge/LinkedIn-Steven--U-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/Steven-U">
     <img src="https://img.shields.io/badge/GitHub-Steven--U-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
 </div>
